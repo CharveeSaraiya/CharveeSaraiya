@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charveesaraiya&label=Profile%20views&color=0e75b6&style=flat" alt="charveesaraiya" /> </p>
 
-- 🔭 I’m currently working on **Generative  AI **
+- 🔭 I’m currently working on **Generative  AI**
 
 - 🌱 I’m currently learning **Deep Learning**
 
